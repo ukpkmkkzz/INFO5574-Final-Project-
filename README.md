@@ -1,4 +1,3 @@
-# INFO5574-Final-Project-
 # INFO5574 Final Project — NFLX vs Gold (GLD) in the Tails
 
 This project studies whether **Netflix (NFLX)** and **gold (proxied by GLD)** become more “related” during **extreme market stress** than they look during normal times.
