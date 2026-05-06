@@ -16,12 +16,12 @@ The key idea is that standard correlation/regression mostly reflects “average 
   - **File:** `navhist-us-en-gld(navhist).csv`
   - **Source:** State Street Global Advisors (historical NAV)
   - **Why GLD:** It trades on the US calendar, aligning naturally with US equities.
-
+  - https://www.ssga.com/us/en/intermediary/etfs/spdr-gold-shares-gld
 - **Netflix equity: NFLX**
   - **File:** `NFLX.csv`
   - **Source:** Kaggle (daily OHLCV)
   - **Field used:** `Adj Close`
-
+  - https://www.kaggle.com/datasets/henryshan/netflix-stock-price
 ## Method of combining datasets + missing values
 
 - Parse both datasets as **daily time series**.
